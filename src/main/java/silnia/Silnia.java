@@ -13,7 +13,10 @@ public class Silnia {
     }
         return silnia;
     }
+
     //postać rekurencyjna
+    //zmianaaa//
+
     public static int silniaRecursive (int arg){
         return arg > 1
 
